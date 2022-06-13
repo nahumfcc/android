@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SpinnerMVVM</string>
+    <string name="componentes_de_la_librer_a_ui_aar">Componentes de la librería UI.aar</string>
+    <string name="boton_usando_estilo_de_librer_a">Boton normal con estilo de la librería UI.aar</string>
+</resources>
